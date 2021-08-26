@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.hypezone.ro</id>
+    <title>HypeZone Changelog</title>
+    <updated>2021-08-26T04:05:54.944Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.hypezone.ro"/>
+    <link rel="self" href="https://blog.hypezone.ro/atom.xml"/>
+    <logo>https://blog.hypezone.ro/images/avatar.png</logo>
+    <icon>https://blog.hypezone.ro/favicon.ico</icon>
+    <rights>All rights reserved 2021, HypeZone Changelog</rights>
+</feed>
